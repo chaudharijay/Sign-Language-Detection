@@ -23,8 +23,8 @@ scikit-learn
 
 # Installation
 1. Clone the Repositery:
-```git clone <repository-url>
-cd <repository-folder>
+```
+git clone https://github.com/chaudharijay/Sign-Language-Detection.git
 ```
 
 # 2. Install dependencies:
