@@ -1,6 +1,6 @@
-# Action Detection
+# Sign Language Detection
 
-This project implements an action detection model using TensorFlow, OpenCV, and MediaPipe. It leverages machine learning techniques to recognize and classify human actions in real-time.
+This project implements a sign language detection model designed to recognize and classify hand gestures in real-time. Using a combination of TensorFlow for deep learning, MediaPipe for efficient hand tracking, and OpenCV for video processing, the model facilitates communication by interpreting sign language gestures into meaningful outputs. It provides a valuable tool for bridging communication gaps and fostering accessibility for the hearing-impaired community.
 
 ## Features
 
@@ -29,6 +29,9 @@ git clone https://github.com/chaudharijay/Sign-Language-Detection.git
 
 # 2. Install dependencies:
 ```pip install numpy opencv-python mediapipe tensorflow matplotlib scikit-learn```
+
+# 3. Run the "Action Detection.ipynb" to first train your actions.
+Actions are already recorded for following phrases - Hi, Iloveyou, Thank you.
 
 
 # 3. Download or prepare your dataset.
